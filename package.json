@@ -6,6 +6,11 @@
   "author": "andychicken <83952965+andychicken@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.5.1",
     "hardhat": "^2.6.8"
+  },
+  "dependencies": {
+    "dotenv-safe": "^8.2.0"
   }
 }
